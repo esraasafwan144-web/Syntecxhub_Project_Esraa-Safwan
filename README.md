@@ -19,4 +19,4 @@ The design focuses on:
 - Easy navigation
 - Simple micro-interactions
 ## Figma Prototype:
-https://www.figma.com/proto/tkRxvJKIAkZed5ag7qyDHo/Untitled?node-id=0-1&t=FmN69yGzQ7VU6Kpp-1
+https://www.figma.com/proto/tkRxvJKIAkZed5ag7qyDHo/Syntecxhub_project_Esraa-Safwan?node-id=0-1&t=FmN69yGzQ7VU6Kpp-1
